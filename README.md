@@ -9,10 +9,9 @@ Building deep-learning models for real scientific images, AI agents, and full-st
 
 ## 🚀 About Me
 
-🔬 Bootcamp: Kama-Tech UltraCode AI Track, NanoVision project (SEM image denoising)  
-🧠 Trained and compared modern denoising networks (NAFNet, Restormer, IDF) on real electron-microscope images  
-📊 Tuned with Optuna and verified every result over 10 random seeds  
-🤖 Built RAG agents with LlamaIndex and LLM tools  
+🔬 Bootcamp: Kama-Tech UltraCode AI Track  
+🧠 Deep learning for computer vision  
+🤖 RAG agents and LLM tools  
 💻 Full-stack experience with React, Angular, Node.js and .NET  
 🎓 Software Engineering (Practical Engineer), GPA 97
 
