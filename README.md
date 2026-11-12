@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hadassa Kellerman</h1>
+<h1 align="center">Hi 👋, I'm Hadasa Kelerman</h1>
 <h3 align="center">Software & AI Developer | Computer Vision · Deep Learning · LLM Agents</h3>
 
 <p align="center">
