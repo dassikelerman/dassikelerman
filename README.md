@@ -1,5 +1,5 @@
 <h1 align="center">I'm Hadasa Kelerman</h1>
-<h3 align="center">Software & AI Developer | Computer Vision · Deep Learning · LLM Agents</h3>
+<h3 align="center">Software & AI Developer </h3>
 
 <p align="center">
 Building deep-learning models for real scientific images, AI agents, and full-stack web systems.
@@ -12,7 +12,7 @@ Building deep-learning models for real scientific images, AI agents, and full-st
 🔬 Bootcamp: Kama-Tech × Applied Materials, UltraCode AI Track  
 🧠 Deep learning for computer vision  
 🤖 RAG agents and LLM tools  
-💻 Full-stack experience with React, Angular, Node.js and .NET  
+💻 Full-stack experience with React, Angular, and .NET  
 🎓 Software Engineering (Practical Engineer), GPA 97
 
 ---
