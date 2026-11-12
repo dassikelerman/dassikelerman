@@ -9,7 +9,7 @@ Building deep-learning models for real scientific images, AI agents, and full-st
 
 ## 🚀 About Me
 
-🔬 Bootcamp: Kama-Tech UltraCode AI Track  
+🔬 Bootcamp: Kama-Tech × Applied Materials, UltraCode AI Track  
 🧠 Deep learning for computer vision  
 🤖 RAG agents and LLM tools  
 💻 Full-stack experience with React, Angular, Node.js and .NET  
