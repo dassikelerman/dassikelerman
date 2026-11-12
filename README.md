@@ -1,5 +1,5 @@
 <h1 align="center">I'm Hadasa Kelerman</h1>
-<h3 align="center">Software & AI Developer </h3>
+<h3 align="center">Junior Software & AI Developer | Computer Vision & LLMs</h3>
 
 <p align="center">
 Building deep-learning models for real scientific images, AI agents, and full-stack web systems.
